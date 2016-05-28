@@ -1,1 +1,1 @@
-# Codility-Solutions
+# programming-solutions
